@@ -18,7 +18,9 @@ I enjoy building systems end-to-end from power architecture and PCB layout to re
 
 I'm involved in Purdue's IEEE ROV team as the electrical hardware lead developing a six board stackup and Purdue SoCET (System on Chip design team) as an embedded software developer to integrate USB 1.1 into the SoC.
 
-I have various projects revolving around embedded systems (STM32, ESP32), and am currently working on a Guitar DSP development board for me to explore DSP, analog design, and firmware!
+I have various projects revolving around embedded systems (STM32, ESP32), and am currently working on a Guitar DSP development board, exploring DSP, analog design, and firmware.
+
+Feel free to reach out if you want to hear more about any of my projects!
 
 ---
 
