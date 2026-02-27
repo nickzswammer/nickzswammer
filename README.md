@@ -2,8 +2,8 @@
 
 Embedded Systems | Hardware Design | PCB Design
 
-📍 West Lafayette, IN (SF Bay Area)  
-📧 zhang.nicholas136@gmail.com  
+#### 📍 SF Bay Area
+#### 📧 zhang.nicholas136@gmail.com  
 ---
 
 ## About Me
@@ -16,36 +16,15 @@ I enjoy building systems end-to-end from power architecture and PCB layout to re
 
 ## Experience
 
-### IEEE Remotely Operated Underwater Vehicle (ROV) – Electrical Boards Lead  
-- Led design of six 4-layer PCBs (KiCad)
-- Designed 48V → 12V/5V power distribution supporting 1440W operation  
-- Routed high-current thruster paths and validated designs via simulation + datasheet analysis  
-- Managed full BOM creation and board bring-up  
+I'm involved in Purdue's IEEE ROV team as the electrical hardware lead developing a six board stackup and Purdue SoCET (System on Chip design team) as an embedded software developer to integrate USB 1.1 into the SoC.
 
----
-
-## Selected Projects
-
-### Custom USB Host Controller Driver (RISC-V SoC)
-- Implementing low-level USB host firmware in C  
-- Handling enumeration, transfers, and interrupt management  
-- Debugging via register inspection and logic analyzer traces  
-
-### ESP32 E-Paper Clock (Custom PCB)
-- Designed 4-layer PCB with power management + SPI routing  
-- Implemented low-power firmware with MOSFET-based switching  
-- Optimized layout for signal integrity and enclosure constraints  
-
-### STM32 Bare-Metal Sensor System
-- Wrote CMSIS register-level drivers (no HAL)  
-- Implemented timing-sensitive sensor + LCD interface  
-- Structured modular, testable embedded firmware  
+I have various projects revolving around embedded systems (STM32, ESP32), and am currently working on a Guitar DSP development board for me to explore DSP, analog design, and firmware!
 
 ---
 
 ## Technical Skills
 
-**Languages:** C, Python, SystemVerilog, Shell  
+**Languages:** C, Python, SystemVerilog  
 **Embedded:** SPI, I2C, UART, GPIO, Timers, Interrupts, DMA, CMSIS  
 **Hardware:** 4-layer PCB design, switching regulators, power systems, LTspice  
 **Tools:** Oscilloscope, Logic Analyzer, Linux, Git  
