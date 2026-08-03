@@ -1,6 +1,6 @@
 # Nicholas Zhang  
 
-Embedded Systems | Hardware Design | PCB Design
+Embedded Systems | Firmware | Systems Programming | Hardware & PCB Design
 
 #### 📍 SF Bay Area
 #### 📧 zhang.nicholas136@gmail.com  
@@ -8,17 +8,18 @@ Embedded Systems | Hardware Design | PCB Design
 
 ## About Me
 
-Electrical Engineering student at Purdue University (Class of 2028)
+Computer Engineering student at Purdue University (Class of 2028)
 
-I enjoy building systems end-to-end from power architecture and PCB layout to register-level firmware and protocol debugging.
+I enjoy building systems end-to-end from power architecture and PCB layout to RTOS based firmware and systems programming.
 
 ---
 
 ## Experience
+I am completing an internship at Milwaukee Tool working within the Platform Electronics group on embedded systems.
 
-I'm involved in Purdue's IEEE ROV team as the electrical hardware lead developing a six board stackup and Purdue SoCET (System on Chip design team) as an embedded software developer to integrate USB 1.1 into the SoC.
+I'm involved in Purdue's IEEE ROV team as the hardware lead developing a six board stackup and Purdue SoCET (System on Chip design team) as an embedded software developer to integrate USB 1.1 into the SoC.
 
-I have various projects revolving around embedded systems (STM32, ESP32), and am currently working on a Guitar DSP development board, exploring DSP, analog design, and firmware.
+I also have various projects revolving around embedded systems (STM32, ESP32), and am currently working on a OTA bootloader, exploring BLE, memory architecture, and RTOS.
 
 Feel free to reach out if you want to hear more about any of my projects!
 
