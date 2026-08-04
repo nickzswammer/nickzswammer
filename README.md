@@ -10,7 +10,7 @@ Embedded Systems | Firmware | Systems Programming | Hardware & PCB Design
 
 Computer Engineering student at Purdue University (Class of 2028)
 
-I enjoy building systems end-to-end from power architecture and PCB layout to RTOS based firmware and systems programming.
+I enjoy building along the entire embedded systems hardware/software line! I started off in power architecture and PCB layout, and I'm now moving into more RTOS based firmware and systems programming.
 
 ---
 
@@ -27,10 +27,10 @@ Feel free to reach out if you want to hear more about any of my projects!
 
 ## Technical Skills
 
-**Languages:** C, Python, SystemVerilog  
-**Embedded:** SPI, I2C, UART, GPIO, Timers, Interrupts, DMA, CMSIS  
-**Hardware:** 4-layer PCB design, switching regulators, power systems, LTspice  
-**Tools:** Oscilloscope, Logic Analyzer, Linux, Git  
+**Languages:** C, SystemVerilog, MATLAB
+**Firmware:** FreeRTOS, Bootloaders, TCP, BLE
+**Hardware:** 4-layer PCB design, Power Dense PCB Design, Altium, KiCAD, IAR  
+**Tools:** Linux, Git, Cmake, GDB, Oscilloscope, Logic Analyzer
 
 ---
 
