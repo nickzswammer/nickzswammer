@@ -28,8 +28,11 @@ Feel free to reach out if you want to hear more about any of my projects!
 ## Technical Skills
 
 **Languages:** C, SystemVerilog, MATLAB
-**Firmware:** FreeRTOS, Bootloaders, TCP, BLE
-**Hardware:** 4-layer PCB design, Power Dense PCB Design, Altium, KiCAD, IAR  
+
+**Firmware:** FreeRTOS, Memory Partitioning, Bootloaders, TCP, BLE
+
+**Hardware:** 4-layer PCB design, Power Dense PCB Design, Altium, KiCAD, IAR 
+
 **Tools:** Linux, Git, Cmake, GDB, Oscilloscope, Logic Analyzer
 
 ---
